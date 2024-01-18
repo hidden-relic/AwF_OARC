@@ -1,0 +1,18 @@
+{
+    "Lua.diagnostics.globals": [
+        "table_size"
+    ],
+    "factorio.versions": [
+        {
+            "name": "jhgjg",
+            "factorioPath": "c:\\Users\\16038\\Documents\\Factorio_x64_1.1.87\\Factorio_1.1.87\\bin\\x64\\factorio.exe",
+            "active": true
+        }
+    ],
+    "Lua.workspace.library": [
+        "c:\\Users\\16038\\Documents\\Factorio_x64_1.1.87\\Factorio_1.1.87\\data"
+    ],
+    "Lua.workspace.userThirdParty": [
+        "c:\\Users\\16038\\AppData\\Roaming\\Code\\User\\workspaceStorage\\2231e947638d1df5fd92ea0a82bbc5e5\\justarandomgeek.factoriomod-debug\\sumneko-3rd"
+    ]
+}
